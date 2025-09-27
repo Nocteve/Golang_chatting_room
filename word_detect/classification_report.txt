@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+       不文明用语       1.00      0.90      0.95        10
+        违法信息       1.00      1.00      1.00         1
+          广告       0.50      1.00      0.67         1
+          正常       1.00      1.00      1.00         7
+
+    accuracy                           0.95        19
+   macro avg       0.88      0.97      0.90        19
+weighted avg       0.97      0.95      0.95        19
