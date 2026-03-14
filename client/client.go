@@ -1,1 +1,1 @@
-使用goroutine异步调用checker函数，或实现消息队列批量处理。
+将CheckOrigin函数改为验证特定来源，而不是始终返回true。
