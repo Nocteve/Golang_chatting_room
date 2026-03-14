@@ -1,1 +1,1 @@
-在switch语句中添加default分支处理未知状态。
+使用goroutine异步调用checker函数，或实现消息队列批量处理。
