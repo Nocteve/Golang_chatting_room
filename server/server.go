@@ -1,1 +1,1 @@
-将whiteMsgToUser改为writeMsgToUser。
+在消息处理前添加输入验证逻辑。
