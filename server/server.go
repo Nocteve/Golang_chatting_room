@@ -1,1 +1,1 @@
-考虑增加通道缓冲区大小或使用带超时的非阻塞发送。
+将strings.Split(msg, "#")改为strings.SplitN(msg, "#", 3)。
