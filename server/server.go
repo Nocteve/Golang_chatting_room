@@ -1,1 +1,1 @@
-将strings.Split(msg, "#")改为strings.SplitN(msg, "#", 3)。
+将whiteMsgToUser改为writeMsgToUser。
